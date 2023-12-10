@@ -1,0 +1,13 @@
+{
+  "name": "biome-config-lxsmnsyc",
+  "devDependencies": {
+    "@biomejs/biome": "^1.4.1"
+  },
+  "peerDependencies": {
+    "@biomejs/biome": "^1.4"
+  },
+  "exports": {
+    ".": "./biome.json",
+    "./biome.json": "./biome.json"
+  }
+}
