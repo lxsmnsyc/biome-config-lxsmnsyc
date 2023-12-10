@@ -1,5 +1,10 @@
 {
   "name": "biome-config-lxsmnsyc",
+  "version": "0.1.0",
+  "repository": "https://github.com/lxsmnsyc/biome-config-lxsmnsyc.git",
+  "author": "Alexis Munsayac <alexis.munsayac@gmail.com>",
+  "license": "MIT",
+  "private": false,
   "devDependencies": {
     "@biomejs/biome": "^1.4.1"
   },
